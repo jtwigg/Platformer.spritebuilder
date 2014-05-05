@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Art/BuildingTiles/anemometer.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{424, 291}, {38, 50}}</string>
+			<key>offset</key>
+			<string>{0, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 20}, {38, 50}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/awningGreen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721, 73}, {70, 62}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 62}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/awningGreenRed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 73}, {70, 62}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 62}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/awningRed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{865, 73}, {70, 62}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 62}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/chimney.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 217}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/chimneyLow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 145}, {70, 43}}</string>
+			<key>offset</key>
+			<string>{0, -13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 27}, {70, 43}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/chimneyThin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{496, 262}, {42, 50}}</string>
+			<key>offset</key>
+			<string>{0, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{14, 20}, {42, 50}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/clock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorKnob.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 217}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorKnobAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 433}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorLock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorOpen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 937}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorOpenTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 188}, {70, 40}}</string>
+			<key>offset</key>
+			<string>{0, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 30}, {70, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorPlateTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 190}, {70, 40}}</string>
+			<key>offset</key>
+			<string>{0, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 30}, {70, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 145}, {70, 40}}</string>
+			<key>offset</key>
+			<string>{0, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 30}, {70, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/doorWindowTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 187}, {70, 40}}</string>
+			<key>offset</key>
+			<string>{0, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 30}, {70, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/fenceGate.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 145}, {70, 51}}</string>
+			<key>offset</key>
+			<string>{0, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 19}, {70, 51}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/fenceLong.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{937, 262}, {70, 51}}</string>
+			<key>offset</key>
+			<string>{0, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 19}, {70, 51}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/fenceLow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 145}, {70, 51}}</string>
+			<key>offset</key>
+			<string>{0, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 19}, {70, 51}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeige.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{577, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 649}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeAlt2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeBottomLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeBottomMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 937}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeBottomRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 793}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeMidLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeMidRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{937, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeTopLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 793}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeTopMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 577}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseBeigeTopRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDark.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{649, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkAlt2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 577}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkBottomLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{505, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkBottomMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 361}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkBottomRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 289}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkMidLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 433}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkMidRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 145}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkTopLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkTopMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 505}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseDarkTopRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGray.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 505}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayAlt2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 721}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayBottomLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayBottomMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayBottomRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 649}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayMidLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 865}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayMidRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayTopLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayTopMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/houseGrayTopRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 361}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/rockMoss.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 145}, {70, 41}}</string>
+			<key>offset</key>
+			<string>{0, -14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 29}, {70, 41}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/rockMossAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{569, 236}, {57, 49}}</string>
+			<key>offset</key>
+			<string>{0, -10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 21}, {57, 49}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofGreyLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1009, 73}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{-29, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofGreyMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 721}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofGreyRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 224}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{59, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofGreyTopLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 211}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{-29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofGreyTopMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofGreyTopRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 198}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{59, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofRedLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 1009}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{-29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofRedMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 145}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofRedRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1009}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{59, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofRedTopLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1009, 289}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{-29, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofRedTopMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 865}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofRedTopRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1009, 1}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{29, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{59, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofYellowLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 198}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{-29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofYellowMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 73}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofYellowRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1009, 217}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{29, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{59, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofYellowTopLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 211}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{-29, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofYellowTopMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{865, 1}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/roofYellowTopRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1009, 145}, {11, 70}}</string>
+			<key>offset</key>
+			<string>{29, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{59, 0}, {11, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/signBed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{505, 201}, {62, 59}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 6}, {62, 59}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/signCoin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 237}, {62, 59}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 6}, {62, 59}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/signCup.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 224}, {62, 59}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 6}, {62, 59}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/signHangingBed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{649, 73}, {70, 63}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 63}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/signHangingCoin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{577, 73}, {70, 63}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 63}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/signHangingCup.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{505, 73}, {70, 63}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 63}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/window.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{865, 200}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowCheckered.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 137}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{937, 73}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighCheckeredBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 200}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighCheckeredMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{577, 138}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighCheckeredTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{632, 201}, {61, 33}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 37}, {61, 33}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighLeadlightBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{649, 138}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighLeadlightMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{937, 136}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighLeadlightTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 333}, {61, 33}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 37}, {61, 33}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{865, 137}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighOpenBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721, 200}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighOpenMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721, 137}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighOpenTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{569, 201}, {61, 33}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 37}, {61, 33}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowHighTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 298}, {61, 33}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 37}, {61, 33}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowLeadlight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{505, 138}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowLow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209, 285}, {61, 60}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 10}, {61, 60}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowLowCheckered.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 230}, {61, 60}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 10}, {61, 60}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowLowLeadlight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 229}, {61, 60}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 10}, {61, 60}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowLowOpen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{281, 232}, {61, 60}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 10}, {61, 60}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>Art/BuildingTiles/windowOpen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{937, 199}, {61, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {61, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>BuildingTiles.png</string>
+	</dict>
+</dict>
+</plist>
