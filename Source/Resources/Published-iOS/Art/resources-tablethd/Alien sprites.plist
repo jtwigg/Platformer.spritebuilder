@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Art/Alien sprites/alienBeige.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1073, 3383}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_badge1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1081, 2077}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_badge2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{761, 3849}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_climb1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3495}, {264, 380}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 380}}</string>
+			<key>sourceSize</key>
+			<string>{264, 380}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_climb2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{267, 3495}, {264, 380}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 380}}</string>
+			<key>sourceSize</key>
+			<string>{264, 380}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_duck.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1379, 335}, {268, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 288}}</string>
+			<key>sourceSize</key>
+			<string>{268, 288}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_hurt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 1}, {268, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 368}}</string>
+			<key>sourceSize</key>
+			<string>{268, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_jump.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{549, 1541}, {264, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 372}}</string>
+			<key>sourceSize</key>
+			<string>{264, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_stand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{549, 2285}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_swim1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 403}, {276, 392}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 392}}</string>
+			<key>sourceSize</key>
+			<string>{276, 392}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_swim2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {280, 400}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 400}}</string>
+			<key>sourceSize</key>
+			<string>{280, 400}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_walk1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{279, 2727}, {272, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {272, 372}}</string>
+			<key>sourceSize</key>
+			<string>{272, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBeige_walk2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1187}, {280, 384}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 384}}</string>
+			<key>sourceSize</key>
+			<string>{280, 384}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{819, 2643}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_badge1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1649, 291}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_badge2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{191, 3877}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_climb1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{549, 1915}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_climb2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{807, 3395}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_duck.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1645, 1}, {268, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 288}}</string>
+			<key>sourceSize</key>
+			<string>{268, 288}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_hurt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{561, 391}, {268, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 368}}</string>
+			<key>sourceSize</key>
+			<string>{268, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_jump.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1541}, {264, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 372}}</string>
+			<key>sourceSize</key>
+			<string>{264, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_stand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 1903}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_swim1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2731}, {276, 380}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 380}}</string>
+			<key>sourceSize</key>
+			<string>{276, 380}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_swim2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 797}, {280, 388}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 388}}</string>
+			<key>sourceSize</key>
+			<string>{280, 388}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_walk1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1915}, {264, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 372}}</string>
+			<key>sourceSize</key>
+			<string>{264, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienBlue_walk2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2345}, {268, 384}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 384}}</string>
+			<key>sourceSize</key>
+			<string>{268, 384}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{831, 371}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_badge1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{571, 3849}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_badge2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1641, 815}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_climb1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 1533}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_climb2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{835, 1}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_duck.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1347, 1377}, {276, 284}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 284}}</string>
+			<key>sourceSize</key>
+			<string>{276, 284}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_hurt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{553, 793}, {276, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 368}}</string>
+			<key>sourceSize</key>
+			<string>{276, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_jump.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 793}, {268, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 372}}</string>
+			<key>sourceSize</key>
+			<string>{268, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_stand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{553, 2655}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_swim1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3113}, {276, 380}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 380}}</string>
+			<key>sourceSize</key>
+			<string>{276, 380}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_swim2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{279, 403}, {280, 388}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 388}}</string>
+			<key>sourceSize</key>
+			<string>{280, 388}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_walk1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{279, 3101}, {272, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {272, 372}}</string>
+			<key>sourceSize</key>
+			<string>{272, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienGreen_walk2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1573}, {280, 384}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 384}}</string>
+			<key>sourceSize</key>
+			<string>{280, 384}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 2273}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_badge1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3877}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_badge2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1641, 625}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_climb1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{553, 3025}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_climb2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{819, 3013}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_duck.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1081, 1791}, {276, 284}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 284}}</string>
+			<key>sourceSize</key>
+			<string>{276, 284}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_hurt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{553, 1163}, {276, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 368}}</string>
+			<key>sourceSize</key>
+			<string>{276, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_jump.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1167}, {268, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 372}}</string>
+			<key>sourceSize</key>
+			<string>{268, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_stand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{831, 741}, {264, 368}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 368}}</string>
+			<key>sourceSize</key>
+			<string>{264, 368}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_swim1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 2345}, {276, 380}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 380}}</string>
+			<key>sourceSize</key>
+			<string>{276, 380}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_swim2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1}, {280, 388}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 388}}</string>
+			<key>sourceSize</key>
+			<string>{280, 388}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_walk1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 3475}, {272, 372}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {272, 372}}</string>
+			<key>sourceSize</key>
+			<string>{272, 372}</string>
+		</dict>
+		<key>Art/Alien sprites/alienPink_walk2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1959}, {280, 384}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 384}}</string>
+			<key>sourceSize</key>
+			<string>{280, 384}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1081, 1461}, {264, 328}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 328}}</string>
+			<key>sourceSize</key>
+			<string>{264, 328}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_badge1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{381, 3877}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_badge2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1081, 2267}, {188, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {188, 188}}</string>
+			<key>sourceSize</key>
+			<string>{188, 188}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_climb1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1097, 717}, {264, 328}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 328}}</string>
+			<key>sourceSize</key>
+			<string>{264, 328}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_climb2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{951, 3765}, {264, 328}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 328}}</string>
+			<key>sourceSize</key>
+			<string>{264, 328}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_duck.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1379, 1043}, {272, 268}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {272, 268}}</string>
+			<key>sourceSize</key>
+			<string>{272, 268}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_hurt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1363, 717}, {276, 324}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 324}}</string>
+			<key>sourceSize</key>
+			<string>{276, 324}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_jump.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1375, 1}, {268, 332}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {268, 332}}</string>
+			<key>sourceSize</key>
+			<string>{268, 332}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_stand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1113, 1047}, {264, 328}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 328}}</string>
+			<key>sourceSize</key>
+			<string>{264, 328}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_swim1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1217, 3753}, {276, 340}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 340}}</string>
+			<key>sourceSize</key>
+			<string>{276, 340}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_swim2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{831, 1111}, {280, 348}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 348}}</string>
+			<key>sourceSize</key>
+			<string>{280, 348}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_walk1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1101, 1}, {272, 332}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {272, 332}}</string>
+			<key>sourceSize</key>
+			<string>{272, 332}</string>
+		</dict>
+		<key>Art/Alien sprites/alienYellow_walk2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1097, 371}, {280, 344}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 344}}</string>
+			<key>sourceSize</key>
+			<string>{280, 344}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>Alien sprites.png</string>
+	</dict>
+</dict>
+</plist>

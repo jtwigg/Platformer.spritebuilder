@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Art/MushroomTiles/bush.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {864, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {864, 288}}</string>
+			<key>sourceSize</key>
+			<string>{864, 288}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{847, 611}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1411, 593}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1411, 757}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{847, 447}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltSpotsLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 619}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltSpotsMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 291}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltSpotsMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1411, 921}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownAltSpotsRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1693, 915}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 939}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1243}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1129, 611}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 291}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownSpotsLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 783}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownSpotsMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 783}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownSpotsMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431, 429}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomBrownSpotsRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1129, 775}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedAltLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 619}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedAltMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1149, 283}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedAltMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 291}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedAltRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 455}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 455}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1129, 939}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1713, 587}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomRedRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 619}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanAltLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1129, 447}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanAltMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1525}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanAltMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1693, 751}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanAltRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1693, 1079}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 455}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{867, 283}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{847, 939}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/shroomTanRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{847, 775}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stem.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 783}, {128, 280}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{78, 0}, {128, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemBase.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1713, 219}, {200, 280}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 0}, {200, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemBaseAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431, 1}, {232, 280}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{26, 0}, {232, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemCrown.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431, 235}, {192, 280}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 0}, {192, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemShroom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{867, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1713, 1}, {216, 280}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{34, 0}, {216, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemTopAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1149, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/stemVine.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1713, 421}, {164, 280}}</string>
+			<key>offset</key>
+			<string>{8, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{66, 0}, {164, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/tallShroom_brown.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1411, 1085}, {180, 166}}</string>
+			<key>offset</key>
+			<string>{-4, -57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{46, 114}, {180, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/tallShroom_red.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1593, 1243}, {180, 166}}</string>
+			<key>offset</key>
+			<string>{-4, -57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{46, 114}, {180, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/tallShroom_tan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1807}, {180, 166}}</string>
+			<key>offset</key>
+			<string>{-4, -57}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 114}, {180, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/tinyShroom_brown.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{165, 1491}, {160, 122}}</string>
+			<key>offset</key>
+			<string>{-6, -79}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{54, 158}, {160, 122}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/tinyShroom_red.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1775, 1367}, {160, 122}}</string>
+			<key>offset</key>
+			<string>{-6, -79}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{54, 158}, {160, 122}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/MushroomTiles/tinyShroom_tan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1775, 1243}, {160, 122}}</string>
+			<key>offset</key>
+			<string>{-6, -79}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{54, 158}, {160, 122}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>MushroomTiles.png</string>
+	</dict>
+</dict>
+</plist>

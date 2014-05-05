@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E659A5B8-780F-44E6-9872-485E516A8465</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PROJECTNAME</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E4294A2-0E44-4FD3-A35B-F917DA2AF49C</key>
+		<string>https://github.com/jtwigg/SpriteBuilder.git</string>
+		<key>7BDB732F-09F0-4222-944A-B1E43CC33F64</key>
+		<string>https://github.com/apportable/cocos2d-iphone.git</string>
+		<key>AD18A435-4ABB-4FCA-981A-2D50825F5E7D</key>
+		<string>https://github.com/slembcke/Chipmunk2D.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Support/PROJECTNAME.spritebuilder/PROJECTNAME.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E4294A2-0E44-4FD3-A35B-F917DA2AF49C</key>
+		<string>../../../..</string>
+		<key>7BDB732F-09F0-4222-944A-B1E43CC33F64</key>
+		<string>../../../../SpriteBuilder/libs/cocos2d-iphone</string>
+		<key>AD18A435-4ABB-4FCA-981A-2D50825F5E7D</key>
+		<string>../../../../SpriteBuilder/libs/cocos2d-iphone/external/Chipmunk</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jtwigg/SpriteBuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E4294A2-0E44-4FD3-A35B-F917DA2AF49C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD18A435-4ABB-4FCA-981A-2D50825F5E7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Chipmunk</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7BDB732F-09F0-4222-944A-B1E43CC33F64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2d-iphone</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E4294A2-0E44-4FD3-A35B-F917DA2AF49C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpriteBuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

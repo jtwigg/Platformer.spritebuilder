@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Art/Extensions/beam.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 847}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamBolts.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1701, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamBoltsHoles.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1419, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamBoltsNarrow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547, 2821}, {280, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 38}, {280, 204}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamDiagonalLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamDiagonalRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2547, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamHoles.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2257}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/beamNarrow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{549, 2539}, {280, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 38}, {280, 204}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveBL.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 847}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveBR.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1411}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{715, 2257}, {280, 158}}</string>
+			<key>offset</key>
+			<string>{0, -61}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 122}, {280, 158}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveRockLarge.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1983, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveRockSmall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{47, 3949}, {120, 128}}</string>
+			<key>offset</key>
+			<string>{-2, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{78, 78}, {120, 128}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveSpikeBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1073, 1039}, {192, 190}}</string>
+			<key>offset</key>
+			<string>{2, -45}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 90}, {192, 190}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveSpikeTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1101, 695}, {192, 182}}</string>
+			<key>offset</key>
+			<string>{2, 49}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 0}, {192, 182}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 3667}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveUL.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3103}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/dirtCaveUR.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserBlueBurst.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{935, 283}, {204, 196}}</string>
+			<key>offset</key>
+			<string>{4, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 46}, {204, 196}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserBlueHorizontal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{875, 2257}, {280, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 102}, {280, 76}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserBlueVertical.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{915, 2539}, {76, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{102, 0}, {76, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserDown.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547, 3103}, {204, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 0}, {204, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserDownShoot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{953, 2233}, {204, 262}}</string>
+			<key>offset</key>
+			<string>{0, 9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 0}, {204, 262}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserGreenBurst.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{643, 545}, {204, 196}}</string>
+			<key>offset</key>
+			<string>{4, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 46}, {204, 196}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserGreenHorizontal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{921, 3103}, {280, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 102}, {280, 76}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserGreenVertical.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{921, 2821}, {76, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{102, 0}, {76, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3667}, {280, 238}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 42}, {280, 238}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserLeftShoot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 1969}, {262, 238}}</string>
+			<key>offset</key>
+			<string>{9, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 42}, {262, 238}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserPurple.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3949}, {140, 44}}</string>
+			<key>offset</key>
+			<string>{4, 4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{74, 114}, {140, 44}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserPurpleDot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{993, 2759}, {44, 44}}</string>
+			<key>offset</key>
+			<string>{4, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{122, 114}, {44, 44}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserRedBurst.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 283}, {204, 196}}</string>
+			<key>offset</key>
+			<string>{4, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 46}, {204, 196}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserRedHorizontal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 3385}, {280, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 102}, {280, 76}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserRedVertical.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{931, 3667}, {76, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{102, 0}, {76, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 3667}, {280, 238}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 42}, {280, 238}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserRightShoot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 1127}, {262, 238}}</string>
+			<key>offset</key>
+			<string>{-9, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 42}, {262, 238}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchBlueOff.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1693}, {278, 280}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {278, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchBlueOn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 2257}, {266, 280}}</string>
+			<key>offset</key>
+			<string>{7, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 0}, {266, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchGreenOff.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 1409}, {264, 278}}</string>
+			<key>offset</key>
+			<string>{-6, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {264, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchGreenOn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{641, 847}, {266, 278}}</string>
+			<key>offset</key>
+			<string>{7, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 2}, {266, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchRedOff.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 2539}, {264, 280}}</string>
+			<key>offset</key>
+			<string>{-6, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {264, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchRedOn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1975}, {266, 280}}</string>
+			<key>offset</key>
+			<string>{7, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 0}, {266, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchYellowOff.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{727, 1689}, {264, 278}}</string>
+			<key>offset</key>
+			<string>{-6, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {264, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserSwitchYellowOn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 1129}, {266, 278}}</string>
+			<key>offset</key>
+			<string>{7, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 2}, {266, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserUp.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3385}, {242, 280}}</string>
+			<key>offset</key>
+			<string>{19, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 0}, {242, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserUpShoot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{993, 1681}, {204, 262}}</string>
+			<key>offset</key>
+			<string>{0, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 18}, {204, 262}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserYellowBurst.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{841, 489}, {204, 196}}</string>
+			<key>offset</key>
+			<string>{4, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 46}, {204, 196}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserYellowHorizontal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 283}, {280, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 102}, {280, 76}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/laserYellowVertical.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 565}, {76, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{102, 0}, {76, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1975}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCenter.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2829, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCenterSticker.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2265, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCenterWarning.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3111, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCliffLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2821}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCliffLeftAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1693}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCliffRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{573, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalCliffRightAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{855, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalFence.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{759, 3385}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, -57}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 114}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalFenceAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{753, 2821}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, -57}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 114}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalHalf.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 2257}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalHalfLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{563, 1693}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalHalfMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{715, 1975}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalHalfRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 1975}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3385}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalPlatform.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 847}, {280, 74}}</string>
+			<key>offset</key>
+			<string>{0, 103}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 74}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalPlatformWire.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3957, 1}, {280, 122}}</string>
+			<key>offset</key>
+			<string>{0, 79}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 122}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalPlatformWireAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{527, 3385}, {280, 230}}</string>
+			<key>offset</key>
+			<string>{0, 25}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 230}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3393, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/metalRounded.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 565}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/raygun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{291, 3949}, {120, 80}}</string>
+			<key>offset</key>
+			<string>{10, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{90, 106}, {120, 80}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/raygunBig.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{455, 3949}, {156, 116}}</string>
+			<key>offset</key>
+			<string>{-8, -12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{54, 94}, {156, 116}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/raygunPurple.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 3949}, {120, 80}}</string>
+			<key>offset</key>
+			<string>{10, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{90, 106}, {120, 80}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/raygunPurpleBig.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{613, 3949}, {156, 116}}</string>
+			<key>offset</key>
+			<string>{-8, -12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{54, 94}, {156, 116}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/shieldBronze.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{841, 695}, {148, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{66, 38}, {148, 204}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/shieldGold.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1039, 489}, {148, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{66, 38}, {148, 204}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/shieldSilver.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1133, 283}, {148, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{66, 38}, {148, 204}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveBL.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1411}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveBR.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3675, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{755, 2539}, {280, 158}}</string>
+			<key>offset</key>
+			<string>{0, -61}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 122}, {280, 158}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveRockLarge.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2539}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveRockSmall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{169, 3949}, {120, 128}}</string>
+			<key>offset</key>
+			<string>{-2, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{78, 78}, {120, 128}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveSpikeBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{909, 845}, {192, 190}}</string>
+			<key>offset</key>
+			<string>{2, -45}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 90}, {192, 190}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveSpikeTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1189, 489}, {192, 182}}</string>
+			<key>offset</key>
+			<string>{2, 49}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{46, 0}, {192, 182}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{753, 3103}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveUL.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3667}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/stoneCaveUR.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1129}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/swordBronze.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1119, 1945}, {92, 260}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{94, 14}, {92, 260}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/swordGold.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{643, 283}, {92, 260}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{94, 14}, {92, 260}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/swordSilver.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{993, 2497}, {92, 260}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{94, 14}, {92, 260}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/tile_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1129}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/tile_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1137, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/umbrellaClosed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 3949}, {108, 264}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 10}, {108, 264}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/umbrellaOpen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{831, 1409}, {270, 264}}</string>
+			<key>offset</key>
+			<string>{5, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 10}, {270, 264}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/wireBottomLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{291, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/wireBottomRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 565}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/wireHook.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{643, 751}, {100, 74}}</string>
+			<key>offset</key>
+			<string>{0, -103}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{90, 206}, {100, 74}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/wireLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 2821}, {262, 280}}</string>
+			<key>offset</key>
+			<string>{-9, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {262, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/Extensions/wireRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3103}, {262, 280}}</string>
+			<key>offset</key>
+			<string>{9, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18, 0}, {262, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>Extensions.png</string>
+	</dict>
+</dict>
+</plist>

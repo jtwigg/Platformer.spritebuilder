@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Art/Enemy sprites/barnacle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1131, 1017}, {204, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 228}}</string>
+			<key>sourceSize</key>
+			<string>{204, 228}</string>
+		</dict>
+		<key>Art/Enemy sprites/barnacle_bite.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{823, 1437}, {204, 232}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 232}}</string>
+			<key>sourceSize</key>
+			<string>{204, 232}</string>
+		</dict>
+		<key>Art/Enemy sprites/barnacle_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1153, 775}, {204, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 228}}</string>
+			<key>sourceSize</key>
+			<string>{204, 228}</string>
+		</dict>
+		<key>Art/Enemy sprites/barnacle_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1029, 1429}, {204, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 228}}</string>
+			<key>sourceSize</key>
+			<string>{204, 228}</string>
+		</dict>
+		<key>Art/Enemy sprites/bat.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{425, 287}, {280, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 188}}</string>
+			<key>sourceSize</key>
+			<string>{280, 188}</string>
+		</dict>
+		<key>Art/Enemy sprites/bat_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{425, 569}, {280, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 188}}</string>
+			<key>sourceSize</key>
+			<string>{280, 188}</string>
+		</dict>
+		<key>Art/Enemy sprites/bat_fly.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3541}, {352, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {352, 148}}</string>
+			<key>sourceSize</key>
+			<string>{352, 148}</string>
+		</dict>
+		<key>Art/Enemy sprites/bat_hang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1043, 3441}, {152, 192}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {152, 192}}</string>
+			<key>sourceSize</key>
+			<string>{152, 192}</string>
+		</dict>
+		<key>Art/Enemy sprites/bat_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{607, 1}, {280, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 188}}</string>
+			<key>sourceSize</key>
+			<string>{280, 188}</string>
+		</dict>
+		<key>Art/Enemy sprites/bee.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{619, 3109}, {224, 192}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {224, 192}}</string>
+			<key>sourceSize</key>
+			<string>{224, 192}</string>
+		</dict>
+		<key>Art/Enemy sprites/bee_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{647, 3505}, {224, 192}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {224, 192}}</string>
+			<key>sourceSize</key>
+			<string>{224, 192}</string>
+		</dict>
+		<key>Art/Enemy sprites/bee_fly.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 1}, {244, 168}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 168}}</string>
+			<key>sourceSize</key>
+			<string>{244, 168}</string>
+		</dict>
+		<key>Art/Enemy sprites/bee_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{619, 2883}, {224, 192}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {224, 192}}</string>
+			<key>sourceSize</key>
+			<string>{224, 192}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishGreen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{641, 1437}, {240, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {240, 180}}</string>
+			<key>sourceSize</key>
+			<string>{240, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishGreen_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{791, 1045}, {240, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {240, 180}}</string>
+			<key>sourceSize</key>
+			<string>{240, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishGreen_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{839, 2151}, {228, 176}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 176}}</string>
+			<key>sourceSize</key>
+			<string>{228, 176}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishGreen_swim.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{977, 1905}, {228, 176}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 176}}</string>
+			<key>sourceSize</key>
+			<string>{228, 176}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishPink.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 1721}, {240, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {240, 180}}</string>
+			<key>sourceSize</key>
+			<string>{240, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishPink_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1113, 247}, {240, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {240, 180}}</string>
+			<key>sourceSize</key>
+			<string>{240, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishPink_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1409, 1}, {228, 176}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 176}}</string>
+			<key>sourceSize</key>
+			<string>{228, 176}</string>
+		</dict>
+		<key>Art/Enemy sprites/fishPink_swim.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1067, 1251}, {228, 176}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 176}}</string>
+			<key>sourceSize</key>
+			<string>{228, 176}</string>
+		</dict>
+		<key>Art/Enemy sprites/fly.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{663, 2459}, {228, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 180}}</string>
+			<key>sourceSize</key>
+			<string>{228, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/fly_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1295, 243}, {228, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 180}}</string>
+			<key>sourceSize</key>
+			<string>{228, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/fly_fly.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{615, 283}, {260, 156}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {260, 156}}</string>
+			<key>sourceSize</key>
+			<string>{260, 156}</string>
+		</dict>
+		<key>Art/Enemy sprites/fly_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1177, 489}, {228, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 180}}</string>
+			<key>sourceSize</key>
+			<string>{228, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/frog.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{973, 1017}, {232, 156}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {232, 156}}</string>
+			<key>sourceSize</key>
+			<string>{232, 156}</string>
+		</dict>
+		<key>Art/Enemy sprites/frog_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{959, 529}, {244, 216}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 216}}</string>
+			<key>sourceSize</key>
+			<string>{244, 216}</string>
+		</dict>
+		<key>Art/Enemy sprites/frog_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{741, 545}, {244, 216}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 216}}</string>
+			<key>sourceSize</key>
+			<string>{244, 216}</string>
+		</dict>
+		<key>Art/Enemy sprites/frog_leap.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{773, 283}, {244, 216}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 216}}</string>
+			<key>sourceSize</key>
+			<string>{244, 216}</string>
+		</dict>
+		<key>Art/Enemy sprites/ghost.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 1769}, {204, 292}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 292}}</string>
+			<key>sourceSize</key>
+			<string>{204, 292}</string>
+		</dict>
+		<key>Art/Enemy sprites/ghost_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 1475}, {204, 292}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 292}}</string>
+			<key>sourceSize</key>
+			<string>{204, 292}</string>
+		</dict>
+		<key>Art/Enemy sprites/ghost_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 2063}, {204, 292}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 292}}</string>
+			<key>sourceSize</key>
+			<string>{204, 292}</string>
+		</dict>
+		<key>Art/Enemy sprites/ghost_normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 1181}, {204, 292}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 292}}</string>
+			<key>sourceSize</key>
+			<string>{204, 292}</string>
+		</dict>
+		<key>Art/Enemy sprites/grassBlock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 3219}, {284, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {284, 280}}</string>
+			<key>sourceSize</key>
+			<string>{284, 280}</string>
+		</dict>
+		<key>Art/Enemy sprites/grassBlock_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 2933}, {284, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {284, 280}}</string>
+			<key>sourceSize</key>
+			<string>{284, 280}</string>
+		</dict>
+		<key>Art/Enemy sprites/grassBlock_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 2647}, {284, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {284, 280}}</string>
+			<key>sourceSize</key>
+			<string>{284, 280}</string>
+		</dict>
+		<key>Art/Enemy sprites/grassBlock_jump.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{365, 3505}, {284, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {284, 280}}</string>
+			<key>sourceSize</key>
+			<string>{284, 280}</string>
+		</dict>
+		<key>Art/Enemy sprites/ladyBug.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{839, 1917}, {232, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {232, 136}}</string>
+			<key>sourceSize</key>
+			<string>{232, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/ladyBug_fly.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 2645}, {236, 168}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {236, 168}}</string>
+			<key>sourceSize</key>
+			<string>{236, 168}</string>
+		</dict>
+		<key>Art/Enemy sprites/ladyBug_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{933, 1671}, {232, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {232, 136}}</string>
+			<key>sourceSize</key>
+			<string>{232, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/ladyBug_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{967, 1}, {244, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 136}}</string>
+			<key>sourceSize</key>
+			<string>{244, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/mouse.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{697, 2201}, {236, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {236, 140}}</string>
+			<key>sourceSize</key>
+			<string>{236, 140}</string>
+		</dict>
+		<key>Art/Enemy sprites/mouse_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{791, 1679}, {236, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {236, 140}}</string>
+			<key>sourceSize</key>
+			<string>{236, 140}</string>
+		</dict>
+		<key>Art/Enemy sprites/mouse_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{697, 1963}, {236, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {236, 140}}</string>
+			<key>sourceSize</key>
+			<string>{236, 140}</string>
+		</dict>
+		<key>Art/Enemy sprites/mouse_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 1287}, {232, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {232, 140}}</string>
+			<key>sourceSize</key>
+			<string>{232, 140}</string>
+		</dict>
+		<key>Art/Enemy sprites/piranha.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{971, 775}, {180, 240}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {180, 240}}</string>
+			<key>sourceSize</key>
+			<string>{180, 240}</string>
+		</dict>
+		<key>Art/Enemy sprites/piranha_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1227, 1}, {180, 240}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {180, 240}}</string>
+			<key>sourceSize</key>
+			<string>{180, 240}</string>
+		</dict>
+		<key>Art/Enemy sprites/piranha_down.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{515, 1975}, {180, 240}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {180, 240}}</string>
+			<key>sourceSize</key>
+			<string>{180, 240}</string>
+		</dict>
+		<key>Art/Enemy sprites/piranha_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{515, 2217}, {180, 240}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {180, 240}}</string>
+			<key>sourceSize</key>
+			<string>{180, 240}</string>
+		</dict>
+		<key>Art/Enemy sprites/slime.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1017, 2135}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{667, 2641}, {204, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 200}}</string>
+			<key>sourceSize</key>
+			<string>{204, 200}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlock_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3895}, {204, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 200}}</string>
+			<key>sourceSize</key>
+			<string>{204, 200}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlock_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{841, 3497}, {204, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 200}}</string>
+			<key>sourceSize</key>
+			<string>{204, 200}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlue.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{813, 3045}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlue_blue.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1071, 1659}, {228, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 120}}</string>
+			<key>sourceSize</key>
+			<string>{228, 120}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlue_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{941, 3243}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlue_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1099, 3841}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeBlue_squashed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{365, 3791}, {228, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 52}}</string>
+			<key>sourceSize</key>
+			<string>{228, 52}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeGreen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{869, 2641}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeGreen_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{893, 2381}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeGreen_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{961, 3845}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeGreen_squashed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 3791}, {228, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 52}}</string>
+			<key>sourceSize</key>
+			<string>{228, 52}</string>
+		</dict>
+		<key>Art/Enemy sprites/slimeGreen_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 3113}, {228, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 120}}</string>
+			<key>sourceSize</key>
+			<string>{228, 120}</string>
+		</dict>
+		<key>Art/Enemy sprites/slime_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 3703}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slime_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{813, 2847}, {196, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 136}}</string>
+			<key>sourceSize</key>
+			<string>{196, 136}</string>
+		</dict>
+		<key>Art/Enemy sprites/slime_squashed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{603, 1383}, {228, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 52}}</string>
+			<key>sourceSize</key>
+			<string>{228, 52}</string>
+		</dict>
+		<key>Art/Enemy sprites/slime_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 2883}, {228, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {228, 120}}</string>
+			<key>sourceSize</key>
+			<string>{228, 120}</string>
+		</dict>
+		<key>Art/Enemy sprites/snail.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{719, 3335}, {220, 160}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {220, 160}}</string>
+			<key>sourceSize</key>
+			<string>{220, 160}</string>
+		</dict>
+		<key>Art/Enemy sprites/snail_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 3343}, {220, 160}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {220, 160}}</string>
+			<key>sourceSize</key>
+			<string>{220, 160}</string>
+		</dict>
+		<key>Art/Enemy sprites/snail_shell.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{841, 3703}, {172, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {172, 140}}</string>
+			<key>sourceSize</key>
+			<string>{172, 140}</string>
+		</dict>
+		<key>Art/Enemy sprites/snail_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{421, 2483}, {240, 160}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {240, 160}}</string>
+			<key>sourceSize</key>
+			<string>{240, 160}</string>
+		</dict>
+		<key>Art/Enemy sprites/snake.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{603, 1129}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeLava.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1771}, {212, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {212, 588}}</string>
+			<key>sourceSize</key>
+			<string>{212, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeLava_ani.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 591}, {208, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {208, 588}}</string>
+			<key>sourceSize</key>
+			<string>{208, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeLava_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1181}, {212, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {212, 588}}</string>
+			<key>sourceSize</key>
+			<string>{212, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeLava_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 591}, {212, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {212, 588}}</string>
+			<key>sourceSize</key>
+			<string>{212, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeSlime.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {212, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {212, 588}}</string>
+			<key>sourceSize</key>
+			<string>{212, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeSlime_ani.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 1}, {208, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {208, 588}}</string>
+			<key>sourceSize</key>
+			<string>{208, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeSlime_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2951}, {212, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {212, 588}}</string>
+			<key>sourceSize</key>
+			<string>{212, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snakeSlime_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2361}, {212, 588}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {212, 588}}</string>
+			<key>sourceSize</key>
+			<string>{212, 588}</string>
+		</dict>
+		<key>Art/Enemy sprites/snake_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{421, 1721}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/snake_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{421, 2229}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/snake_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547, 1467}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/spider.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{421, 1181}, {284, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {284, 180}}</string>
+			<key>sourceSize</key>
+			<string>{284, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/spider_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{425, 851}, {276, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 204}}</string>
+			<key>sourceSize</key>
+			<string>{276, 204}</string>
+		</dict>
+		<key>Art/Enemy sprites/spider_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{425, 1}, {284, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {284, 180}}</string>
+			<key>sourceSize</key>
+			<string>{284, 180}</string>
+		</dict>
+		<key>Art/Enemy sprites/spider_walk1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{215, 2357}, {288, 204}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {288, 204}}</string>
+			<key>sourceSize</key>
+			<string>{288, 204}</string>
+		</dict>
+		<key>Art/Enemy sprites/spider_walk2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 3541}, {308, 212}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {308, 212}}</string>
+			<key>sourceSize</key>
+			<string>{308, 212}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinner.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{707, 3845}, {252, 248}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 248}}</string>
+			<key>sourceSize</key>
+			<string>{252, 248}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinnerHalf.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{421, 1467}, {252, 124}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 124}}</string>
+			<key>sourceSize</key>
+			<string>{252, 124}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinnerHalf_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{615, 545}, {252, 124}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 124}}</string>
+			<key>sourceSize</key>
+			<string>{252, 124}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinnerHalf_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1105, 1}, {244, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 120}}</string>
+			<key>sourceSize</key>
+			<string>{244, 120}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinnerHalf_spin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{991, 247}, {244, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 120}}</string>
+			<key>sourceSize</key>
+			<string>{244, 120}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinner_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{453, 3845}, {252, 248}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 248}}</string>
+			<key>sourceSize</key>
+			<string>{252, 248}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinner_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{725, 799}, {244, 244}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 244}}</string>
+			<key>sourceSize</key>
+			<string>{244, 244}</string>
+		</dict>
+		<key>Art/Enemy sprites/spinner_spin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{207, 3851}, {244, 244}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {244, 244}}</string>
+			<key>sourceSize</key>
+			<string>{244, 244}</string>
+		</dict>
+		<key>Art/Enemy sprites/worm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{421, 1975}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/worm_dead.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{631, 799}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/worm_hit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{697, 1053}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+		<key>Art/Enemy sprites/worm_walk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{515, 1721}, {252, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 92}}</string>
+			<key>sourceSize</key>
+			<string>{252, 92}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>Enemy sprites.png</string>
+	</dict>
+</dict>
+</plist>

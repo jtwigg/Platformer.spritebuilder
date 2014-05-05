@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Art/IceTiles/caneGreen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2641, 701}, {82, 280}}</string>
+			<key>offset</key>
+			<string>{-99, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {82, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneGreenSmall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2077, 283}, {280, 238}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 42}, {280, 238}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneGreenTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2257, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneGreenTopAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1693}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneRed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2077, 639}, {82, 280}}</string>
+			<key>offset</key>
+			<string>{-99, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {82, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneRedSmall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1795, 283}, {280, 238}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 42}, {280, 238}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneRedTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1975}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/caneRedTopAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3103}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/deadTree.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2641, 283}, {228, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{26, 0}, {228, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceBlock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2821}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceBlockAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 2539}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceBlockHalf.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3769, 1021}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceBlockHalfAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3487, 1021}, {280, 162}}</string>
+			<key>offset</key>
+			<string>{0, 59}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 162}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWater.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3205, 491}, {280, 182}}</string>
+			<key>offset</key>
+			<string>{0, -49}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 98}, {280, 182}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2359, 517}, {280, 182}}</string>
+			<key>offset</key>
+			<string>{0, -49}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 98}, {280, 182}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterDeep.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3385}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterDeepAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 2257}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterDeepStars.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1129}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterDeepStarsAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 847}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3205, 675}, {280, 182}}</string>
+			<key>offset</key>
+			<string>{0, -49}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 98}, {280, 182}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iceWaterMidAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2923, 679}, {280, 182}}</string>
+			<key>offset</key>
+			<string>{0, -49}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 98}, {280, 182}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/igloo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{667, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iglooAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1411}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iglooDoor.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 565}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iglooRoof.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3667}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iglooRoofLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1129}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/iglooRoofRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1129, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/pineSapling.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1513, 679}, {224, 278}}</string>
+			<key>offset</key>
+			<string>{-2, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{26, 2}, {224, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/pineSaplingAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 641}, {208, 278}}</string>
+			<key>offset</key>
+			<string>{-2, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{34, 2}, {208, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/plant.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1229, 809}, {132, 154}}</string>
+			<key>offset</key>
+			<string>{0, -63}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{74, 126}, {132, 154}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/plantAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1229, 697}, {220, 110}}</string>
+			<key>offset</key>
+			<string>{-4, -85}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{26, 170}, {220, 110}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/rock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3769, 853}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, -57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 114}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/rockAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{667, 733}, {232, 198}}</string>
+			<key>offset</key>
+			<string>{6, -41}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 82}, {232, 198}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowBall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1385, 809}, {120, 124}}</string>
+			<key>offset</key>
+			<string>{2, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{82, 82}, {120, 124}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowBallBig.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1513, 283}, {280, 278}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 278}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowBallBigGround.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1795, 523}, {280, 158}}</string>
+			<key>offset</key>
+			<string>{0, -61}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 122}, {280, 158}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowBallGround.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 825}, {120, 72}}</string>
+			<key>offset</key>
+			<string>{2, -102}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{82, 206}, {120, 72}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowGroundLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3487, 489}, {280, 194}}</string>
+			<key>offset</key>
+			<string>{0, -43}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 86}, {280, 194}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowGroundRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3769, 489}, {280, 194}}</string>
+			<key>offset</key>
+			<string>{0, -43}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 86}, {280, 194}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowHill.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1231, 565}, {280, 66}}</string>
+			<key>offset</key>
+			<string>{0, -107}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 214}, {280, 66}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowHillLow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4051, 283}, {280, 42}}</string>
+			<key>offset</key>
+			<string>{0, -119}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 238}, {280, 42}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4051, 1129}, {280, 34}}</string>
+			<key>offset</key>
+			<string>{0, -123}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 246}, {280, 34}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4051, 847}, {280, 34}}</string>
+			<key>offset</key>
+			<string>{0, -123}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 246}, {280, 34}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4051, 565}, {280, 37}}</string>
+			<key>offset</key>
+			<string>{0, -121}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 243}, {280, 37}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/snowWave.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1231, 633}, {280, 62}}</string>
+			<key>offset</key>
+			<string>{0, -109}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 218}, {280, 62}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikeTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3949}, {100, 142}}</string>
+			<key>offset</key>
+			<string>{4, 69}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{94, 0}, {100, 142}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikesBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3949}, {280, 142}}</string>
+			<key>offset</key>
+			<string>{0, -69}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 138}, {280, 142}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikesBottomAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2641, 513}, {280, 186}}</string>
+			<key>offset</key>
+			<string>{0, -47}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 94}, {280, 186}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikesBottomAlt2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2077, 523}, {280, 114}}</string>
+			<key>offset</key>
+			<string>{0, -83}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 166}, {280, 114}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikesTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3949, 1}, {280, 142}}</string>
+			<key>offset</key>
+			<string>{0, 69}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 142}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikesTopAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2923, 491}, {280, 186}}</string>
+			<key>offset</key>
+			<string>{0, 47}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 186}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/spikesTopAlt2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1513, 563}, {280, 114}}</string>
+			<key>offset</key>
+			<string>{0, 83}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 114}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tree.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2257}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1231, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesLeftAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3103}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesLeftSnowAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3385, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1693, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesSnowLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1693}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesSnowRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesSnowRightAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2821, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeBranchesSnowRightSnowAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1975, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1411}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTopSnow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{847, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 3949}, {132, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{74, 0}, {132, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2359, 283}, {232, 280}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{26, 0}, {232, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBottomAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3487, 283}, {204, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{38, 0}, {204, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBottomAlt2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2539, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBottomAlt3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 3667}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBranch.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{667, 565}, {280, 82}}</string>
+			<key>offset</key>
+			<string>{0, 99}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 82}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBranchEndLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 283}, {280, 82}}</string>
+			<key>offset</key>
+			<string>{0, 99}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 82}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBranchEndRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2359, 701}, {280, 82}}</string>
+			<key>offset</key>
+			<string>{0, 99}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 82}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBranchLeftAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 565}, {258, 82}}</string>
+			<key>offset</key>
+			<string>{11, 99}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 0}, {258, 82}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkBranchRightAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{667, 649}, {258, 82}}</string>
+			<key>offset</key>
+			<string>{-11, 99}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {258, 82}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkSplitLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3205, 283}, {206, 280}}</string>
+			<key>offset</key>
+			<string>{-37, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {206, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkSplitRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2923, 283}, {206, 280}}</string>
+			<key>offset</key>
+			<string>{37, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{74, 0}, {206, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/treeTrunkTop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3769, 283}, {204, 280}}</string>
+			<key>offset</key>
+			<string>{-4, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{34, 0}, {204, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundra.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2539}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraCenter.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraCenter_rounded.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3667, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraCliffLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 2821}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraCliffLeftAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 847}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraCliffRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3103, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraCliffRightAlt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1975}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHalf.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3487, 685}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHalfLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3487, 853}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHalfMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3205, 859}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHalfRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3769, 685}, {280, 166}}</string>
+			<key>offset</key>
+			<string>{0, 57}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 166}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHillLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 3385}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHillLeft2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHillRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraHillRight2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 283}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraLedgeLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{901, 733}, {22, 74}}</string>
+			<key>offset</key>
+			<string>{129, 103}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{258, 0}, {22, 74}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraLedgeRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 565}, {280, 74}}</string>
+			<key>offset</key>
+			<string>{0, 103}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 74}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1411, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraMid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 565}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+		<key>Art/IceTiles/tundraRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{565, 1}, {280, 280}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 280}}</string>
+			<key>sourceSize</key>
+			<string>{280, 280}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>IceTiles.png</string>
+	</dict>
+</dict>
+</plist>
